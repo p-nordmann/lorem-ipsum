@@ -10,7 +10,7 @@ It uses the _Liber Primus_, copied from [thelatinlibrary.com](https://www.thelat
 
 Right now, the CLI has to be run from sources:
 ```
-git clone github.com/p-nordmann/lorem-ipsum
+git clone https://github.com/p-nordmann/lorem-ipsum
 cd lorem-ipsum
 go run ./cmd/glorips --paragraphs 2
 ```
