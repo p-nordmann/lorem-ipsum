@@ -11,10 +11,10 @@ import (
 
 const maxDepth = 5
 
-var paragraphs int
+var numParagraphs int
 
 func init() {
-	flag.IntVar(&paragraphs, "paragraphs", 3, "amount of paragraphs to generate")
+	flag.IntVarP(&numParagraphs, "count", "n", 3, "count of paragraphs to generate")
 }
 
 func main() {
@@ -25,7 +25,7 @@ func main() {
 
 	context := "\n\n"
 	lastTokenIsNewLine := false
-	for count := 0; count < paragraphs; {
+	for count := 0; count < numParagraphs; {
 		density := f.Predict(context)
 		c := rune(sampleToken(density))
 		if c == '\n' {
