@@ -1,4 +1,4 @@
-github.com/p-nordmann/prefix-forest v0.0.0-20230609202256-63d2f42dfdca h1:itgSsoE85PXSTiWqpj3K+HinXUZ/sJP95D6+G3o8qI0=
-github.com/p-nordmann/prefix-forest v0.0.0-20230609202256-63d2f42dfdca/go.mod h1:lc0eXlDRKf6meGyi1ZwBkoBY4TehgJLfRxmvolNGTeA=
+github.com/p-nordmann/prefix-forest v0.0.0-20230609211429-a112b2ab376e h1:UKOeAWg6Bs2UhaH9Q3ssw7E0fwUuxpQu+bNjzsdMwCw=
+github.com/p-nordmann/prefix-forest v0.0.0-20230609211429-a112b2ab376e/go.mod h1:lc0eXlDRKf6meGyi1ZwBkoBY4TehgJLfRxmvolNGTeA=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
 github.com/spf13/pflag v1.0.5/go.mod h1:McXfInJRrz4CZXVZOBLb0bTZqETkiAhM9Iw0y3An2Bg=
